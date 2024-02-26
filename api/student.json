@@ -1,0 +1,1187 @@
+{
+    "Sec-G":[
+     {
+      "SNO": 1,
+      "RegNo.": 209202003,
+      "Student Name": "SAIZAL GUPTA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Block chain Technology \/ B"
+     },
+     {
+      "SNO": 2,
+      "RegNo.": 209301016,
+      "Student Name": "MAULIK MARKAN",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4149 Big Data Analytics \/ A ",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 3,
+      "RegNo.": 209301050,
+      "Student Name": "ANSH UJLAYAN",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 4,
+      "RegNo.": 209301053,
+      "Student Name": "NADELLA RUTVIK RAMANA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 5,
+      "RegNo.": 209301054,
+      "Student Name": "MANAN UPADHYAY",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 6,
+      "RegNo.": 209301062,
+      "Student Name": "SIRIS GUPTA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 7,
+      "RegNo.": 209301084,
+      "Student Name": "AYUSH SINGH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4142 Natural Language Processing\/A",
+      "PE-4 Course Code & Name \/PE Section": "CC4143 Deep Learning\/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 8,
+      "RegNo.": 209301101,
+      "Student Name": "ARUSHI SRIVASTAVA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 9,
+      "RegNo.": 209301105,
+      "Student Name": "MEHUL KUMAR SINHA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 10,
+      "RegNo.": 209301107,
+      "Student Name": "ANSH SONI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4150 Software defined Network \/ A",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 11,
+      "RegNo.": 209301149,
+      "Student Name": "ANUSHKA JOSHI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 12,
+      "RegNo.": 209301155,
+      "Student Name": "HARSHITA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4152 Social Network Analysis \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 13,
+      "RegNo.": 209301158,
+      "Student Name": "SHIVANG SINGH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 14,
+      "RegNo.": 209301164,
+      "Student Name": "AARUSHI DANDRIYAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4150 Software defined Network \/ A",
+      "PE-6 Course Code & Name \/PE Section": "CS 4152 Social Network Analysis \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 15,
+      "RegNo.": 209301183,
+      "Student Name": "MOHIT SINGH SHEKHAWAT",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 16,
+      "RegNo.": 209301206,
+      "Student Name": "AYUSH ARORA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 17,
+      "RegNo.": 209301209,
+      "Student Name": "MANAS KUMAR JHA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 18,
+      "RegNo.": 209301210,
+      "Student Name": "ARUSHI SHARMA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 19,
+      "RegNo.": 209301211,
+      "Student Name": "ABHINAV KUMAR",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4140 Principles of Web Services \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CC4141 DevOps Fundamentals \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 20,
+      "RegNo.": 209301213,
+      "Student Name": "ADITYA HOSPATTANKAR",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4154 & Linux System and Shell Programming \/B",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 21,
+      "RegNo.": 209301233,
+      "Student Name": "DHRUV MITTAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 22,
+      "RegNo.": 209301235,
+      "Student Name": "JASRAJ SINGH JUNEJA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 23,
+      "RegNo.": 209301239,
+      "Student Name": "KUSHAGR SAINI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4140 Principles of Web Services \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CC4141 DevOps Fundamentals \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 24,
+      "RegNo.": 209301241,
+      "Student Name": "SARTHAK SHARMA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 25,
+      "RegNo.": 209301298,
+      "Student Name": "SHREYA KUMAWAT",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 26,
+      "RegNo.": 209301303,
+      "Student Name": "SEJAL VIJAY",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 27,
+      "RegNo.": 209301305,
+      "Student Name": "NAVYA AGARWAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 28,
+      "RegNo.": 209301308,
+      "Student Name": "SRISHTI GUPTA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Block chain Technology \/ B"
+     },
+     {
+      "SNO": 29,
+      "RegNo.": 209301309,
+      "Student Name": "PRADYUMNA SINGH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4140 Principles of Web Services \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CC4141 DevOps Fundamentals \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 30,
+      "RegNo.": 209301311,
+      "Student Name": "ISHAN PANDEY",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 31,
+      "RegNo.": 209301316,
+      "Student Name": "KRISHNA KISHORE MADATHINGAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 32,
+      "RegNo.": 209301363,
+      "Student Name": "SARTHAK SRIVASTAVA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 33,
+      "RegNo.": 209301381,
+      "Student Name": "YELLARTHI PRANAV",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 34,
+      "RegNo.": 209301400,
+      "Student Name": "VEDANT SHINGI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4142 Natural Language Processing\/A",
+      "PE-4 Course Code & Name \/PE Section": "CC4143 Deep Learning\/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4149 Big Data Analytics \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 35,
+      "RegNo.": 209301407,
+      "Student Name": "JITYA ADITYA SENGAR",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 36,
+      "RegNo.": 209301422,
+      "Student Name": "DIVYANSH MALIK",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 37,
+      "RegNo.": 209301432,
+      "Student Name": "ASTITVA PRAKASH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 38,
+      "RegNo.": 209301443,
+      "Student Name": "SUMEET DAS",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 39,
+      "RegNo.": 209301445,
+      "Student Name": "SHIVANGI PRAKASH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 40,
+      "RegNo.": 209301447,
+      "Student Name": "R S JAYA KARTHI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 41,
+      "RegNo.": 209301459,
+      "Student Name": "TEJUS",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4140 Principles of Web Services \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CC4141 DevOps Fundamentals \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 42,
+      "RegNo.": 209301496,
+      "Student Name": "PRANAV SRIVASTAV",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 43,
+      "RegNo.": 209301516,
+      "Student Name": "ARJIT SRIVASTAVA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 44,
+      "RegNo.": 209301518,
+      "Student Name": "ARYAN ARORA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 45,
+      "RegNo.": 209301524,
+      "Student Name": "AKANSHA GHOSH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 46,
+      "RegNo.": 209301532,
+      "Student Name": "ESHITA KAMRA ",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 47,
+      "RegNo.": 209301561,
+      "Student Name": "ACHINTYA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "IT 4140 Big data analytics\/A",
+      "PE-4 Course Code & Name \/PE Section": "IT 4141 Deep Learning \/A",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4144 Information Retrieval \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 48,
+      "RegNo.": 209301573,
+      "Student Name": "SHAURYA MALHAN",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4149 Big Data Analytics \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 49,
+      "RegNo.": 209301582,
+      "Student Name": "SHLOK ROHIT KHANDELWAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS4146 User Interface Design \/ D",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 50,
+      "RegNo.": 209301587,
+      "Student Name": "GARIMA SINGH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CC4140 Principles of Web Services \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CC4141 DevOps Fundamentals \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 51,
+      "RegNo.": 209301619,
+      "Student Name": "VAIBHAVI SHANDILYA",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4157 Natural Language Processing \/ C",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 52,
+      "RegNo.": 209301632,
+      "Student Name": "ADITYA AGRAWAL",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS4157 NATURAL LANGUAGE PROCESSING \/ B",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     },
+     {
+      "SNO": 53,
+      "RegNo.": 209301652,
+      "Student Name": "UMESH KUMAR SINGH",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4150 Software defined Network \/ A",
+      "PE-6 Course Code & Name \/PE Section": "CS 4154 & Linux System and Shell Programming \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 54,
+      "RegNo.": 209302110,
+      "Student Name": "SRISHTI CHATURVEDI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4149 Big Data Analytics \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4148 Internet of Things \/ A"
+     },
+     {
+      "SNO": 55,
+      "RegNo.": 209302150,
+      "Student Name": "DEVANSHU RASTOGI",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4161 Advanced Data Structures \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS4151 Deep Neural Networks\/A"
+     },
+     {
+      "SNO": 56,
+      "RegNo.": 209302169,
+      "Student Name": "DIVYANSH MALIK",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4142 Cloud Computing Applications \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS4143 Cloud Security and Privacy\/B",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4154 & Linux System and Shell Programming \/B",
+      "PE-7 Course Code & Name \/PE Section": "CS 4158 Computer Vision \/ B"
+     },
+     {
+      "SNO": 57,
+      "RegNo.": 209302317,
+      "Student Name": "PRAJESH PRANESH YEOTIKAR",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS4140 Cyber security \/ A",
+      "PE-4 Course Code & Name \/PE Section": "CS4141 Digital Forensics and Cyber Crimes \/ A",
+      "PE-5 Course Code & Name \/PE Section": "CS4156 Mobile Computing \/ B",
+      "PE-6 Course Code & Name \/PE Section": "CS 4154 & Linux System and Shell Programming \/A",
+      "PE-7 Course Code & Name \/PE Section": "CS 4162 Blockchain Technologies \/ B"
+     },
+     {
+      "SNO": 58,
+      "RegNo.": 209309065,
+      "Student Name": "SIDDHANT KESHAV",
+      "Sem": "VII",
+      "Acadmic \nSection": "G",
+      "PE-3 Course Code & Name \/PE Section": "CS 4159 Data Visualization Techniques \/ B",
+      "PE-4 Course Code & Name \/PE Section": "CS 4160 Fundamentals of Big Data \/ B",
+      "PE-5 Course Code & Name \/PE Section": "CS 4146 User Interface Design \/ C",
+      "PE-6 Course Code & Name \/PE Section": "CS 4152 Social Network Analysis \/ A",
+      "PE-7 Course Code & Name \/PE Section": "CS4147 Digital Image Processing \/ B"
+     }
+    ],
+    "Faculty Mapped with SEC-G Stud":[
+     {
+      "CSE Department": "SNO",
+      "Column2": "PE",
+      "Column3": "COURSECODE\/COURSE NAME ",
+      "PE-3&4_VII Sem July-Dec 2023": "Faculty Name",
+      "Column5": "Actual Section",
+      "Column6": "PE Section",
+      "Column8": "Faculty Resposebility"
+     },
+     {
+      "CSE Department": 1,
+      "Column2": "PE3",
+      "Column3": "CS4140-Cyber Security ",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. LAV UPADHYAY",
+      "Column6": "A",
+      "Column8": "Mr. LAV UPADHYAY & Dr. Manmohan Sharma"
+     },
+     {
+      "CSE Department": 2,
+      "Column3": "CS4140-Cyber Security ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Harish Kumar Shakya",
+      "Column6": "B,C",
+      "Column7": 2
+     },
+     {
+      "CSE Department": 3,
+      "Column3": "CS4142-Cloud Computing Applications ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Manmohan Sharma",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 4,
+      "Column3": "CS4142-Cloud Computing Applications ",
+      "PE-3&4_VII Sem July-Dec 2023": "DR. DEEPIKA SHEKHAWAT",
+      "Column6": "C,D"
+     },
+     {
+      "CSE Department": 5,
+      "Column3": "CS4159- Data Visualization Techniques",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Ajay Kumar",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 6,
+      "Column3": "CS4159- Data Visualization Techniques",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Ashok Kumar Saini",
+      "Column6": "B,C"
+     },
+     {
+      "CSE Department": 7,
+      "Column2": "PE-4",
+      "Column3": "CS4141-Digital Forensics & Cyber Crimes",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. LAV UPADHYAY",
+      "Column6": "A,C",
+      "Column7": 2,
+      "Column8": "Mr. Aditya Gupta & Dr. Anubha Parashar"
+     },
+     {
+      "CSE Department": 8,
+      "Column3": "CS4141-Digital Forensics & Cyber Crimes",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr Prashant Vats",
+      "Column6": "B"
+     },
+     {
+      "CSE Department": 9,
+      "Column3": "CS4143-Cloud Security and Privacy",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Ankur Pandey",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 10,
+      "Column3": "CS4143-Cloud Security and Privacy",
+      "PE-3&4_VII Sem July-Dec 2023": "(Dr) Chhatar Singh Lamba ",
+      "Column6": "C,D"
+     },
+     {
+      "CSE Department": 11,
+      "Column3": "CS4160- Fundamentals of Big Data",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr.Jeyakrishnan V",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 12,
+      "Column3": "CS4160- Fundamentals of Big Data",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. VIVEK SINGH SIKARWAR",
+      "Column6": "C"
+     },
+     null,
+     {
+      "CSE Department": "IT Department",
+      "PE-3&4_VII Sem July-Dec 2023": "PE-3&4_VII Sem July-Dec 2023"
+     },
+     {
+      "CSE Department": 1,
+      "Column2": "PE-3",
+      "Column3": "IT4140-Big Data Analytics  ",
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Kavita",
+      "Column6": "A",
+      "Column7": 2,
+      "Column8": "Mr. Rakesh Kumar & Ms. Santoshi Namedev Rudrakar"
+     },
+     {
+      "CSE Department": 2,
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Venkatesh Gauri Shankar",
+      "Column6": "B"
+     },
+     {
+      "CSE Department": 3,
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Virendra Dehru",
+      "Column6": "C"
+     },
+     {
+      "CSE Department": 4,
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Shally Vats",
+      "Column6": "D"
+     },
+     {
+      "CSE Department": 5,
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Shweta Sharma",
+      "Column6": "E"
+     },
+     {
+      "CSE Department": 6,
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Shalini Puri",
+      "Column6": "F"
+     },
+     {
+      "CSE Department": 7,
+      "Column2": "PE-4",
+      "Column3": "IT4141-Deep Learning",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Sumit Srivastava",
+      "Column6": "A",
+      "Column7": 2,
+      "Column8": "Dr Gireesh Kumar & Mr. Ashok Kumar Saini"
+     },
+     {
+      "CSE Department": 8,
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Bagesh Kumar ",
+      "Column6": "B"
+     },
+     {
+      "CSE Department": 9,
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Krati Dubey",
+      "Column6": "C"
+     },
+     {
+      "CSE Department": 10,
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Rahul Saxena ",
+      "Column6": "D"
+     },
+     {
+      "CSE Department": 11,
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Ganpat Singh Chauhan",
+      "Column6": "E"
+     },
+     {
+      "CSE Department": 12,
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Dhananjay Kumar Singh",
+      "Column6": "F"
+     },
+     null,
+     null,
+     {
+      "CSE Department": "CCE Department"
+     },
+     {
+      "CSE Department": 1,
+      "Column2": "PE-3",
+      "Column3": "Principles of Web Services",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rohit Mittal",
+      "Column6": "A & B",
+      "Column7": 2,
+      "Column8": " Dr.Jay Prakash & Dr. Mayank Namdev"
+     },
+     {
+      "CSE Department": 2,
+      "Column3": "Natural Language Processing ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Renu Kumawat",
+      "Column6": "A & B"
+     },
+     {
+      "CSE Department": 3,
+      "Column2": "PE-4",
+      "Column3": "Deep Learning",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Manoj Sharma",
+      "Column6": "A & B",
+      "Column7": 2
+     },
+     {
+      "CSE Department": 4,
+      "Column3": "DevOps Fundamentals",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rajendra",
+      "Column6": "A & B"
+     },
+     null,
+     null,
+     {
+      "CSE Department": "PE-5, 6 & 7_VII Sem July-Dec 2023"
+     },
+     null,
+     {
+      "CSE Department": "PE-5_VII Sem July-Dec 2023"
+     },
+     {
+      "CSE Department": 1,
+      "Column2": "PE-5",
+      "Column3": "CS4146-User Interface Design (Coursera)",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Rakesh Kumar",
+      "Column5": "A to E",
+      "Column6": "A,B",
+      "Column7": 2,
+      "Column8": "Dr. Susheela Vishnoi & Mr. Ajay Kumar"
+     },
+     {
+      "CSE Department": 2,
+      "Column3": "CS4146-User Interface Design (Coursera)",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Ankit Shrivastava",
+      "Column5": "E to I",
+      "Column6": "C,D"
+     },
+     {
+      "CSE Department": 3,
+      "Column3": "CS4156-Mobile Computing",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rishav Dubey",
+      "Column5": "A to I",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 4,
+      "Column3": "CS4150-Software Defined Newtorks",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Mayank Namdev",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 5,
+      "Column2": "PE-6",
+      "Column3": "Natural Language Processing",
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Shikha Mundra",
+      "Column5": "A to C",
+      "Column6": "A",
+      "Column8": "Ms. Surbhi Sharma & Mr. Anil Kumar"
+     },
+     {
+      "CSE Department": 6,
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Surbhi Sharma",
+      "Column5": "C to I",
+      "Column6": "B,C",
+      "Column7": 2
+     },
+     {
+      "CSE Department": 7
+     },
+     {
+      "CSE Department": 8,
+      "Column3": " Information Retrieval",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Santosh Kumar Vishwakarma",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 9,
+      "Column3": "Linux System and Shell Programming",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Dibakar Sinha",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 10,
+      "Column3": "Advanced Data Structures",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Tarun Jain",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 11,
+      "Column3": "Social Network Analysis",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Roheet Bhatnagar",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 12,
+      "Column3": "Big Data Analytics",
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Bali Devi",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 13,
+      "Column2": "PE-7",
+      "Column3": "Computer Vision",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Anubha Parashar",
+      "Column5": "A to I",
+      "Column6": "A,B",
+      "Column7": 2,
+      "Column8": " Dr. Ankur Pandey &  Dr. Dibakar Sinha"
+     },
+     {
+      "CSE Department": 14,
+      "Column3": "Digital Image Processing ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rishi Gupta",
+      "Column5": "A to I",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 15,
+      "Column3": "Deep Neural Network",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Neelam Chaplot",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 16,
+      "Column3": "Internet of Things",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr Ajay Kumar",
+      "Column5": "A to I",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 17,
+      "Column3": "Blockchain Technologies",
+      "PE-3&4_VII Sem July-Dec 2023": " Dr. Ankur Pandey",
+      "Column5": "A to I",
+      "Column6": "A,B"
+     }
+    ],
+    "Faculty Mapped with SEC-G S (2)":[
+     {
+      "CSE Department": "SNO",
+      "Column2": "PE",
+      "Column3": "COURSECODE\/COURSE NAME ",
+      "PE-3&4_VII Sem July-Dec 2023": "Faculty Name",
+      "Column5": "Academic Section",
+      "Column6": "PE Section"
+     },
+     {
+      "CSE Department": 1,
+      "Column2": "PE3",
+      "Column3": "CS4140-Cyber Security ",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. LAV UPADHYAY",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 2,
+      "Column3": "CS4142-Cloud Computing Applications ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Manmohan Sharma",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 3,
+      "Column3": "CS4159- Data Visualization Techniques",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Ashok Kumar Saini",
+      "Column5": "Sec-G",
+      "Column6": "B,C"
+     },
+     {
+      "CSE Department": 4,
+      "Column2": "PE-4",
+      "Column3": "CS4141-Digital Forensics & Cyber Crimes",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. LAV UPADHYAY",
+      "Column5": "Sec-G",
+      "Column6": "A,C"
+     },
+     {
+      "CSE Department": 5,
+      "Column3": "CS4143-Cloud Security and Privacy",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Ankur Pandey",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 6,
+      "Column3": "CS4160- Fundamentals of Big Data",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr.Jeyakrishnan V",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     null,
+     {
+      "CSE Department": "PE-5, 6 & 7_VII Sem July-Dec 2023"
+     },
+     {
+      "CSE Department": "PE-5_VII Sem July-Dec 2023"
+     },
+     {
+      "CSE Department": 7,
+      "Column3": "CS4146-User Interface Design (Coursera)",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Ankit Shrivastava",
+      "Column5": "Sec-G",
+      "Column6": "C,D"
+     },
+     {
+      "CSE Department": 8,
+      "Column3": "CS4156-Mobile Computing",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rishav Dubey",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 9,
+      "Column3": "CS4150-Software Defined Newtorks",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Mayank Namdev",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Surbhi Sharma",
+      "Column5": "Sec-G",
+      "Column6": "B,C"
+     },
+     null,
+     {
+      "CSE Department": 10,
+      "Column3": " Information Retrieval",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Santosh Kumar Vishwakarma",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 11,
+      "Column3": "Linux System and Shell Programming",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Dibakar Sinha",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 12,
+      "Column3": "Advanced Data Structures",
+      "PE-3&4_VII Sem July-Dec 2023": "Mr. Tarun Jain",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 13,
+      "Column3": "Social Network Analysis",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Roheet Bhatnagar",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 14,
+      "Column3": "Big Data Analytics",
+      "PE-3&4_VII Sem July-Dec 2023": "Ms. Bali Devi",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 15,
+      "Column2": "PE-7",
+      "Column3": "Computer Vision",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Anubha Parashar",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 16,
+      "Column3": "Digital Image Processing ",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Rishi Gupta",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     },
+     {
+      "CSE Department": 17,
+      "Column3": "Deep Neural Network",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr. Neelam Chaplot",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 18,
+      "Column3": "Internet of Things",
+      "PE-3&4_VII Sem July-Dec 2023": "Dr Ajay Kumar",
+      "Column5": "Sec-G",
+      "Column6": "A"
+     },
+     {
+      "CSE Department": 19,
+      "Column3": "Blockchain Technologies",
+      "PE-3&4_VII Sem July-Dec 2023": " Dr. Ankur Pandey",
+      "Column5": "Sec-G",
+      "Column6": "A,B"
+     }
+    ]
+    }
